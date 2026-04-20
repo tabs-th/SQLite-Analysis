@@ -1,3 +1,8 @@
+/*
+Tools: Used VS Code and the SQLTools extension.
+Validated results by referencing totals against row counts and verifying schema relationships for joins logic.
+*/
+
 -- TASK 1: Top 5 Customers by Total Spend
 SELECT 
     c.first_name || ' ' || c.last_name AS customer_full_name,
