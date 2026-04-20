@@ -3,7 +3,7 @@
         {
             "previewLimit": 50,
             "driver": "SQLite",
-            "name": "mydatabase.db",
+            "name": "sqlite lab",
             "group": "Connection",
             "database": "bais_sqlite_lab.db"
         }
